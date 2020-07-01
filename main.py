@@ -1,3 +1,3 @@
 from StartWindow import StartWindow
 
-app = StartWindow()
+app = StartWindow().start_app()
